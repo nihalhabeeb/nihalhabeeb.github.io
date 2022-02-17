@@ -1,22 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to Nihal Habeeb's Portfolio
 
-You can use the [editor on GitHub](https://github.com/nihalhabeeb/nihalhabeeb.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hello this is my portfolio
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Projects Here
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I will talk about my first project
 
 ```markdown
-Syntax highlighted code block
+I can put my code block inside this
 
 # Header 1
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+* Bulleted
+* List
 
 1. Numbered
 2. List
