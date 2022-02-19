@@ -1,7 +1,5 @@
 ## Nihal Habeeb's Projects
 
-Hello this is my portfolio
-
 ### Playstore Data Analysis
 #### Project Overview
 * In this project, the distribution of applications in relation to categories and genres and whether they're paid or free is explored.
@@ -9,31 +7,38 @@ Hello this is my portfolio
 * Derived conclusions can help app developers gain an understanding on how to capture the market.
 * PostgreSQL and Tableau are the tools used.
 
-##### App Downloads Dashboard:
+#### App Downloads Dashboard:
 ![Dashboard Image](Images/app_downloads_dashboard.png)
 
 Access the project [HERE](https://nihalhabeeb.github.io/Playstore_data_analysis/)
 
 ### Rental Bike Demand Prediction
 #### Project Overview
+* first point
+* second point
+* third point
+
+#### eda rented bike vs month
+
+#### eda rented bike vs hour
+
+#### Linear Regression
 
 ```markdown
-I can put my code block inside this
-
-# Header 1
-## Header 2
-### Header 3
-
-* Bulleted
-* List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+train test split
+scaling
+fitting model
 ```
+#### predicted and actual values image
+
+#### Decision Tree Regression
+
+```markdown
+grid search cv
+model fitting
+```
+#### actual and pred image
+#### tree image
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
