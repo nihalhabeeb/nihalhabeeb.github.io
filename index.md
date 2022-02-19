@@ -9,27 +9,13 @@ Hello this is my portfolio
 * Derived conclusions can help app developers gain an understanding on how to capture the market.
 * PostgreSQL and Tableau are the tools used.
 
-Data was obtained from googleplaystore.csv dataset taken from kaggle (Author: Lavanya, Updated on 03/02/2019). To acess the source [CLICK HERE](https://www.kaggle.com/lava18/google-play-store-apps):
-
-## Data Visualisation
-Data visualisation was done in Tableau. The dashboards were created.
-
-### App Downloads Dashboard:
-Presents the distribution of application downloads across categories and genres. Provides information on the total download activity as well as the total number of applications (Link below).
-https://public.tableau.com/views/APPPERFORMANCEDASHBOARD/appperf_db?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
-
-
+##### App Downloads Dashboard:
 ![Dashboard Image](Images/app_downloads_dashboard.png)
 
-### App Performance Dashboard:
-Visualises the distribution of free and paid apps as well as the money spent across categories and genres. The relation of review activities with categories and genres is explored as well (Link below).
+Access the project [HERE](https://nihalhabeeb.github.io/Playstore_data_analysis/)
 
-https://public.tableau.com/views/APPPERFORMANCEDASHBOARD/appperf_db?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
-
-
-![Dashboard Image](Images/dashboard_app_performance.png)
-
-I will talk about my first project
+### Rental Bike Demand Prediction
+#### Project Overview
 
 ```markdown
 I can put my code block inside this
