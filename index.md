@@ -9,7 +9,7 @@ For a bike renting system to smoothly function, it is necessary to provide a sta
 * Decision Tree Regression model is trained for getting better predictions and this model's performance is evaluated as well.
 * Python libraries such as Matplotlib, Seaborn, Pandas and Scikit-learn are used.
 
-Access the complete project [**HERE**](https://nihalhabeeb.github.io/rental_bike_demand_prediction/)
+Access the complete project [HERE](https://nihalhabeeb.github.io/rental_bike_demand_prediction/)
 
 ##### Linear Regression Model - Predicted and Actual values
 ![LINEAR REGRESSION ERROR](Images/lin_reg_error_plot.jpg)
@@ -24,7 +24,7 @@ Access the complete project [**HERE**](https://nihalhabeeb.github.io/rental_bike
 * Derived conclusions can help app developers gain an understanding on how to capture the market.
 * PostgreSQL and Tableau are the tools used.
 
-Access the complete project [**HERE**](https://nihalhabeeb.github.io/Playstore_data_analysis/)
+Access the complete project [HERE](https://nihalhabeeb.github.io/Playstore_data_analysis/)
 
 ##### App Downloads Dashboard:
 ![Dashboard Image](Images/app_downloads_dashboard.png)
