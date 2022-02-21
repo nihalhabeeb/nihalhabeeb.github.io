@@ -1,6 +1,6 @@
 ## Nihal Habeeb's Projects
 
-### [RENTAL BIKE DEMAND PREDICTION](https://nihalhabeeb.github.io/rental_bike_demand_prediction/)
+### [**RENTAL BIKE DEMAND PREDICTION**](https://nihalhabeeb.github.io/rental_bike_demand_prediction/)
 For a bike renting system to smoothly function, it is necessary to provide a stable supply of rental bikes at any given point of time according to the demand. This requires having a good prediction of the bike demand at each hour. I am working with a dataset of bike rental counts in the city of Seoul, South Korea which contains historical data on date and weather information (Temperature, Humidity, Windspeed, Visibility, Dewpoint, Solar radiation, Snowfall, Rainfall).
 
 #### Project Overview
@@ -9,7 +9,7 @@ For a bike renting system to smoothly function, it is necessary to provide a sta
 * Decision Tree Regression model is trained for getting better predictions and this model's performance is evaluated as well.
 * Python libraries such as Matplotlib, Seaborn, Pandas and Scikit-learn are used.
 
-Access the complete project [HERE](https://nihalhabeeb.github.io/rental_bike_demand_prediction/)
+Access the complete project [**HERE**](https://nihalhabeeb.github.io/rental_bike_demand_prediction/)
 
 ##### Linear Regression Model - Predicted and Actual values
 ![LINEAR REGRESSION ERROR](Images/lin_reg_error_plot.jpg)
@@ -17,20 +17,20 @@ Access the complete project [HERE](https://nihalhabeeb.github.io/rental_bike_dem
 ##### Decision Tree Regression Model - Predicted and Actual values
 ![DECISION TREE ERROR](Images/decision_tree_GSCV_reg_error_plot.jpg)
 
-### [PLAYSTORE DATA ANALYSIS](https://nihalhabeeb.github.io/Playstore_data_analysis/)
+### [**PLAYSTORE DATA ANALYSIS**](https://nihalhabeeb.github.io/Playstore_data_analysis/)
 #### Project Overview
 * In this project, the distribution of applications in relation to categories and genres and whether they're paid or free is explored.
 * Information on the money spent by consumers buying applications, as well as the review activities are obtained.
 * Derived conclusions can help app developers gain an understanding on how to capture the market.
 * PostgreSQL and Tableau are the tools used.
 
-Access the complete project [HERE](https://nihalhabeeb.github.io/Playstore_data_analysis/)
+Access the complete project [**HERE**](https://nihalhabeeb.github.io/Playstore_data_analysis/)
 
 ##### App Downloads Dashboard:
 ![Dashboard Image](Images/app_downloads_dashboard.png)
 
 ### CONTACT
-email: [nihalmhabeeb@gmail.com](nihalmhabeeb@gmail.com) \
+email: [nihalmhabeeb@gmail.com](mailto:nihalmhabeeb@gmail.com) \
 Twitter: [@nihalmhabeeb](https://twitter.com/nihalmhabeeb)
 
 <!-- For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
