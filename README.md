@@ -1,5 +1,17 @@
 ## Nihal Habeeb's Projects
 
+### HEALTH INSURANCE CROSS SELL PREDICTION
+Cross selling is the process of offering an existing customer a product that is similar or compatible to the product that they already purchased. Acquiring a new customer is harder than retaining existing customers, which makes customer relationship a very important aspect for any business. Cross selling can be an effective method to strengthen the relationship with the customer while also boosting the revenue of the business. I am using a dataset containing information of health insurance policy holders (of past year) to predict whether they will be interested in the vehicle insurance of the company.
+
+#### Project Overview
+* All the features in the dataset (including Age, Annual Premium amount, Vehicle Age etc.) are carefully studied.
+* The Response (Interested, Not interested) classes were highly imbalanced. SMOTE was used to balance them.
+* Logistic Regression, Decision Tree Classifier, Random Forest Classifier and XGBoost Classifier were built.
+* The performances of these models are evaluated and compared.
+* Python libraries such as Pandas, Matplotlib, Seaborn, Numpy, Imbalanced-learn, Scikit-learn and XGBoost are used.
+
+Access the complete project [HERE](https://nihalhabeeb.github.io/Health_Insurance_Cross_Sell_Prediction/)
+
 ### RENTAL BIKE DEMAND PREDICTION
 For a bike renting system to smoothly function, it is necessary to provide a stable supply of rental bikes at any given point of time according to the demand. This requires having a good prediction of the bike demand at each hour. I am working with a dataset of bike rental counts in the city of Seoul, South Korea which contains historical data on date and weather information (Temperature, Humidity, Windspeed, Visibility, Dewpoint, Solar radiation, Snowfall, Rainfall).
 
