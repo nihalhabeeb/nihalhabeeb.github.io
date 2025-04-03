@@ -1,2 +1,1 @@
-# nihalhabeeb.github.io
- personal website
+Welcome to my personal website
